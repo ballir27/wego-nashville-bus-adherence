@@ -11,4 +11,6 @@ Goals of this project:
 5. How much of a factor does the driver have on headway and on-time performance? The driver is indicated by the OPERATOR variable.
 6. How does direction of travel, route, or location affect the headway and on-time performance?
 7. How does time of day or day of week affect headway and on-time performance? Can you detect an impact of school schedule on headway deviation (for certain routes and at certain times of day)?
-8. Does weather have any effect on headway or on-time performance? To help answer this question, the file bna_weather.csv contains historical weather data recorded at Nashville International Airport. 
+8. Does weather have any effect on headway or on-time performance? To help answer this question, the file bna_weather.csv contains historical weather data recorded at Nashville International Airport.
+
+This was a group project that I worked on with Paris Parker, Jeff Davis, and Ndidi Obi.
